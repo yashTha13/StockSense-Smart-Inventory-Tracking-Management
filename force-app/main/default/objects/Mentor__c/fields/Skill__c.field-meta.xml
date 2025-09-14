@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Skill__c</fullName>
+    <label>Skill</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>editor</fullName>
+                <default>false</default>
+                <label>editor</label>
+            </value>
+            <value>
+                <fullName>developer</fullName>
+                <default>false</default>
+                <label>developer</label>
+            </value>
+            <value>
+                <fullName>coder</fullName>
+                <default>false</default>
+                <label>coder</label>
+            </value>
+            <value>
+                <fullName>tester</fullName>
+                <default>false</default>
+                <label>tester</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>3</visibleLines>
+</CustomField>
