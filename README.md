@@ -19,3 +19,4 @@ The `sfdx-project.json` file contains useful configuration information for your 
 
   ## StockSense Phases
   -phase1(https://docs.google.com/document/d/114uTc_Fut3BnMmd4dnDZMu4DVZws-ib6JGBBp9SMe5Y/edit?usp=sharing)
+  -phase2(https://docs.google.com/document/d/114uTc_Fut3BnMmd4dnDZMu4DVZws-ib6JGBBp9SMe5Y/edit?usp=sharing)
