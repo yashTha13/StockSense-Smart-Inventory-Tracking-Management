@@ -18,9 +18,10 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
 
   ## StockSense Phases
-  -phase1(https://docs.google.com/document/d/114uTc_Fut3BnMmd4dnDZMu4DVZws-ib6JGBBp9SMe5Y/edit?usp=sharing)
-  -phase2(https://docs.google.com/document/d/114uTc_Fut3BnMmd4dnDZMu4DVZws-ib6JGBBp9SMe5Y/edit?usp=sharing)
-  -phase3(https://docs.google.com/document/d/114uTc_Fut3BnMmd4dnDZMu4DVZws-ib6JGBBp9SMe5Y/edit?usp=sharing)
-  -phase4(https://docs.google.com/document/d/114uTc_Fut3BnMmd4dnDZMu4DVZws-ib6JGBBp9SMe5Y/edit?usp=sharing)
-  -phase5(https://docs.google.com/document/d/114uTc_Fut3BnMmd4dnDZMu4DVZws-ib6JGBBp9SMe5Y/edit?usp=sharing)
-  -phase6
+  -phase1(https://docs.google.com/document/d/114uTc_Fut3BnMmd4dnDZMu4DVZws-ib6JGBBp9SMe5Y/edit?usp=sharing).
+  -phase2(https://docs.google.com/document/d/114uTc_Fut3BnMmd4dnDZMu4DVZws-ib6JGBBp9SMe5Y/edit?usp=sharing).
+  -phase3(https://docs.google.com/document/d/114uTc_Fut3BnMmd4dnDZMu4DVZws-ib6JGBBp9SMe5Y/edit?usp=sharing).
+  -phase4(https://docs.google.com/document/d/114uTc_Fut3BnMmd4dnDZMu4DVZws-ib6JGBBp9SMe5Y/edit?usp=sharing).
+  -phase5(https://docs.google.com/document/d/114uTc_Fut3BnMmd4dnDZMu4DVZws-ib6JGBBp9SMe5Y/edit?usp=sharing).
+  -phase6(https://docs.google.com/document/d/114uTc_Fut3BnMmd4dnDZMu4DVZws-ib6JGBBp9SMe5Y/edit?usp=sharing).
+  
